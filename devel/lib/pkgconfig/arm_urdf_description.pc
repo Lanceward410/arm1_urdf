@@ -1,0 +1,1 @@
+/home/lancelinux/arm1_ws/devel/.private/arm_urdf_description/lib/pkgconfig/arm_urdf_description.pc

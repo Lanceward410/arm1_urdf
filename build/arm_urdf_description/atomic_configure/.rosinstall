@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lancelinux/arm1_ws/devel/.private/arm_urdf_description/setup.sh
